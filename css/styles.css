@@ -2,7 +2,7 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Oxygen', sans-serif;
 }
 
 h1{
@@ -211,6 +211,7 @@ a{
     z-index: 1;
     height: 15.5vh;
     padding-top: 4rem;
+    font-family: 'Quicksand', sans-serif;
 }
 .menu{
     width: 5.5%;
@@ -397,12 +398,12 @@ a{
 
 .number-2{
     position: relative;
-    top: -0.8rem;
+    top: -1rem;
 }
 
 .number-3{
     position: relative;
-    top: 0.5rem;
+    top: -0.4rem;
 }
 
 .skills-title-animator{
@@ -980,6 +981,271 @@ a{
     /* MENU */
 
 }
+
+
+@media (min-height: 651px) {
+
+    .menu{
+        height: 125%;
+    }
+
+    .menu-content {
+        padding-top: 2.3rem;
+    }
+
+    .menu-font-size {
+        font-size: 3.2em;
+    }
+
+    .page-content {
+        padding-top: 27rem;
+    }
+
+    .welcome-title {
+        font-size: 7.8rem;
+    }
+
+    .welcome-description {
+        font-size: 2.5rem;
+    }
+
+    .menu-skills {
+        padding-top: 11.9rem;
+    }
+
+    .main-title-letters-details {
+        font-size: 1.2rem;
+    }
+
+    .skills-title {
+        top: 51.4%;
+        font-size: 2.5em;
+    }
+
+    .percentages {
+        padding-top: 27.5rem;
+    }
+
+    .wave-animation {
+        width: 8.5%;
+        height: 18vh;
+    }
+
+    .percentages-back {
+        bottom: 16.8vh;
+    }
+
+    .percentages-back-item {
+        min-width: 8.1%;
+        max-height: 16.6vh;
+    }
+
+    .skills-title-animator {
+        margin-left: -1.4rem;
+    }
+
+    .skills-title-end {
+        margin-right: -1rem;
+    }
+
+    .number-1 {
+        top: 0.5rem;
+    }
+
+    .number-2 {
+        top: -0.5rem;
+    }
+
+    .number-3 {
+        top: 0.5rem;
+    }
+
+    .percentage-number {
+        padding: 2.6rem 0 2.6rem 0;
+    }
+
+    .education {
+        font-size: 0.95em;
+    }
+
+    .sizeL {
+        font-size: 2.5em;
+    }
+
+    .degree-img {
+        width: 12%;
+    }
+
+    .full-page {
+        height: 131%;
+    }
+
+    .contact-elements {
+        padding-top: 27.3rem;
+    }
+
+    .contact-img {
+        width: 17.3%;
+    }
+
+    .contact-social-img {
+        width: 3.7rem;
+        height: 3.7rem;
+    }
+
+    .contact-link-span {
+        font-size: 1.9rem;
+    }
+
+    .contact-link{
+        top: 0.5rem;
+    }
+
+    .social-media {
+        bottom: 8rem;
+    }
+
+    .animal-busters-p {
+        padding-top: 2rem;
+    }
+
+    .animal-busters-link:hover{
+        font-size: 1.19rem;
+    }
+
+}
+
+@media (min-height: 683px) {
+
+    .menu{
+        height: 120%;
+    }
+
+    .menu-content {
+        padding-top: 2.3rem;
+    }
+
+    .menu-font-size {
+        font-size: 3.2em;
+    }
+
+    .page-content {
+        padding-top: 27rem;
+    }
+
+    .welcome-title {
+        font-size: 7.8rem;
+    }
+
+    .welcome-description {
+        font-size: 2.5rem;
+    }
+
+    .menu-skills {
+        padding-top: 11.9rem;
+    }
+
+    .main-title-letters-details {
+        font-size: 1.2rem;
+    }
+
+    .skills-title {
+        top: 49.4%;
+        font-size: 2.6em;
+    }
+
+    .percentages {
+        padding-top: 28rem;
+    }
+
+    .wave-animation {
+        width: 8.1%;
+    }
+
+    .percentages-back {
+        bottom: 16.6vh;
+    }
+
+    .percentages-back-item {
+        min-width: 8.1%;
+        max-height: 16.6vh;
+    }
+
+    .skills-title-animator {
+        margin-left: -1.4rem;
+    }
+
+    .skills-title-end {
+        margin-right: -1rem;
+    }
+
+    .number-1 {
+        top: 0.5rem;
+    }
+
+    .number-2 {
+        top: -0.5rem;
+    }
+
+    .number-3 {
+        top: 0.5rem;
+    }
+
+    .percentage-number {
+        padding: 2.6rem 0 2.6rem 0;
+    }
+
+    .education {
+        font-size: 0.95em;
+    }
+
+    .sizeL {
+        font-size: 2.5em;
+    }
+
+    .degree-img {
+        width: 12.5%;
+    }
+
+    .full-page {
+        height: 131%;
+    }
+
+    .contact-elements {
+        padding-top: 27.3rem;
+    }
+
+    .contact-img {
+        width: 18.2%;
+    }
+
+    .contact-social-img {
+        width: 3.7rem;
+        height: 3.7rem;
+    }
+
+    .contact-link-span {
+        font-size: 1.9rem;
+    }
+
+    .contact-link{
+        top: 0.5rem;
+    }
+
+    .social-media {
+        bottom: 8rem;
+    }
+
+    .animal-busters-p {
+        padding-top: 2rem;
+    }
+
+    .animal-busters-link:hover{
+        font-size: 1.2rem;
+    }
+
+}
+
 
 /*
 
