@@ -1114,8 +1114,8 @@ a{
     }
 
 }
-/*
-@media (min-height: 683px) {
+
+@media (max-width: 1280px) and (max-height: 683px) {
 
     .menu{
         height: 120%;
